@@ -1,7 +1,10 @@
 # tiger_team_project
 Our first project as a team of tigers.
 
+# Google Slides
+https://docs.google.com/presentation/d/1gvuc5TnIkXGlZvuL0qsuACEuwrfO9Ih3np3wv6ZcEBE/edit?usp=sharing
 
+# Our First Draft:
 Tiger Team Proposal
   Does more Schooling equal more life?
     Relationship between schooling and life expectancy?
@@ -14,3 +17,9 @@ Tiger Team Proposal
     BMI to Life Expectancy
 
 Charts: Lines, Bars, Scatters, Heatmap - Grouping by Countries and doing basic charts
+
+# Our Findings
+
+
+
+
