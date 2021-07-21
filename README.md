@@ -4,6 +4,9 @@ Our first project as a team of tigers.
 # Google Slides
 https://docs.google.com/presentation/d/1gvuc5TnIkXGlZvuL0qsuACEuwrfO9Ih3np3wv6ZcEBE/edit?usp=sharing
 
+# Data Set
+https://www.kaggle.com/kumarajarshi/life-expectancy-who
+
 # Our First Draft:
 Tiger Team Proposal
   Does more Schooling equal more life?
@@ -19,7 +22,7 @@ Tiger Team Proposal
 Charts: Lines, Bars, Scatters, Heatmap - Grouping by Countries and doing basic charts
 
 # Our Findings
-
+See our presentation!
 
 
 
